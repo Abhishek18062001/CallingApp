@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496836262422",
+    "project_id": "vediocall-b7782",
+    "storage_bucket": "vediocall-b7782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496836262422:android:7a0984562e2509eda85337",
+        "android_client_info": {
+          "package_name": "com.example.vediocallingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496836262422-7k6c8cjidu7mnpijlv3et4fhjudc5e3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChzhqebjgSNWfxqIDCs7uYuaMi5JHh1Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496836262422-7k6c8cjidu7mnpijlv3et4fhjudc5e3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
